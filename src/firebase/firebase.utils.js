@@ -1,7 +1,6 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
-import { persistReducer } from 'redux-persist';
 
 const config = {
   apiKey: "AIzaSyAGJCjplfbELYlfa4Bob6dKvljMyqwuH_4",
